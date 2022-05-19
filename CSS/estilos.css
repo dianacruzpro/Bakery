@@ -91,6 +91,12 @@ section{
  color: var(--color-primario); 
 }
 
+/********   Tienda   **********/
+
+.tiendaProductos{
+  background-color: #2c2d2f;
+}
+
 /******** Procesos ***********/
 
 .cabecera__procesos{
