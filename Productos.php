@@ -9,7 +9,7 @@
 <div class="text-especialidades-container"><h2 class="primero">Nuestras especialidades</h2></div>
 <div class="container">
 
-  <div class="fila">
+  <div class="fila2">
     <a class="tarjeta text-decoration-none" href="pasteleria.php" style="--i:url(../IMG/Tipos/Pasteleria/Pasteleria.jpg)" alt="pastel">
       <div class="content">
         <h3>PASTELERIA</h3>
