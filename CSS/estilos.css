@@ -351,11 +351,20 @@ body::-webkit-scrollbar-thumb{
 .texto_portada p{
   font-size: 150%;
 }
-.primero{
+
+.text-especialidades-container{
+  padding: 40px 40px 50px;
+  display:flex;
   flex-direction: column;
   text-align: center;
   align-items: center;
-  padding: 40px 40px 50px;
+  
+}
+.primero{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  width:minmax(600px,800px);
   border-bottom:3px solid var(--color-primario);
   border-top:3px solid var(--color-primario);
 }
