@@ -13,9 +13,6 @@
                                 <input name="nombre" placeholder="Escribe tu nombre" required="required" size="8" type="text" />
                             </div>
 
-                            <div class="col-md-6">
-                                <input name="email" placeholder="Email" required="required" size="8" type="email" />
-                            </div>
                         </li>
 
                         <li>
