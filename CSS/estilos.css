@@ -1,6 +1,7 @@
 /********Estilos ***********/
 :root{
   --color-fondo:#232426;
+  --color-banner:rgb(35,36,38);
   --color-fondo-transparente:#232426f6;
   --color-primario:#F26B1D;
   --color-primario-oscuro:#da5000;
@@ -89,6 +90,105 @@ section{
 
 .home-text span{
  color: var(--color-primario); 
+}
+
+/******** Acerca de ***********/
+.carousel{
+  padding: 50px 0px!important;
+}
+
+.banner_uno{
+  background:linear-gradient(rgba(35, 36, 38, 0.5), rgba(35, 36, 38, 0.5)), url(../IMG/AboutUsBanner1.jpg);
+}
+
+.banner_dos{
+  background:linear-gradient(rgba(35, 36, 38, 0.5), rgba(35, 36, 38, 0.5)), url(../IMG/AboutUsBanner2.jpg);
+}
+
+.banner_tres{
+  background:linear-gradient(rgba(35, 36, 38, 0.5), rgba(35, 36, 38, 0.5)), url(../IMG/AboutUsBanner3.jpg);
+}
+
+.banner_uno, .banner_dos, .banner_tres{
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.texto_banner{
+  padding: 10% 5%;
+  display:flex;
+  flex-direction:column;
+  text-align: justify;
+  color: var(--color-texto-claro);
+}
+
+
+.texto_banner h1 span{
+  color:var(--color-primario);
+  /*color:var(--color-primario-oscuro);*/
+}
+
+.texto_banner hr{
+  border: 10px solid var(--color-primario);
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+.texto_banner p, .texto_banner h2{
+  font-size: 1.4em;
+  padding-left: 20px;
+}
+
+.primera{
+  background-color: var(--color-fondo)!important;
+  border: 2px solid var(--color-primario)!important;
+  margin: 20px 2px;
+  width: 85%;
+  
+}
+
+.primera .img{
+  width: 100%!important;
+  height: 80%;
+}
+
+.segunda {
+  background-color: var(--color-fondo)!important;
+  border: 2px solid var(--color-primario)!important;
+  border-radius: 20px!important;
+  width: 100%;
+  margin: 20px 0px;
+  -webkit-border-radius: 20px!important;
+  -moz-border-radius: 20px!important;
+  -ms-border-radius: 20px!important;
+  -o-border-radius: 20px!important;
+}
+ 
+.segunda .img{
+  margin-left: 0px;
+}
+
+.valores{
+  background-color: var(--color-fondo)!important;
+  border: 2px solid var(--color-primario)!important;
+  text-align: center;
+  border-radius: 100px!important;
+  -webkit-border-radius: 100px!important;
+  -moz-border-radius: 100px!important;
+  -ms-border-radius: 100px!important;
+  -o-border-radius: 100px!important;
+}
+
+.valores .img{
+  display: block;
+  margin: 20px auto 0px;
+  width: 64px;
+  height: auto;
 }
 
 /******** Procesos ***********/
