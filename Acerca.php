@@ -15,7 +15,7 @@
                             <div class="col-md-6 texto_banner">
                                 <h1><span>•┃</span> NOSOTROS <span>┃•</span></h1>
                                 <hr>
-                                <h2> Panaderia, pasteleria y reposteria.</h2>
+                                <h2> Panaderia, pasteleria y reposteria. </h2>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                                 Minima impedit a aperiam officia vel quasi eveniet doloremque maiores vero soluta.
                                 </p>
