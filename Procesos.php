@@ -70,6 +70,59 @@
             </svg></div>
         </div>
         <div class="receta-info">
+          <div class="receta">
+            <h4 class="my-4 text-center text-dark">Ingredientes principales</h4>
+            <table class="table">
+              <thead>
+                <th class="text-dark text-center">Ingrediente</th>
+                <th class="text-dark text-center">%</th>
+                <th class="text-dark text-center">Libra</th>
+                <th class="text-dark text-center">Onza</th>
+              </thead>
+              <tr>
+                <th class="text-dark text-center">Harina Panadera</th>
+                <td class="text-dark text-center">100%</td>
+                <td class="text-dark text-center">5</td>
+                <td class="text-dark text-center"> </td>
+              </tr>
+              <tr>
+                <th class="text-dark text-center">Agua</th>
+                <td class="text-dark text-center">60%</td>
+                <td class="text-dark text-center">3.00</td>
+                <td class="text-dark text-center">--</td>
+              </tr>
+              <tr>
+                <th class="text-dark text-center">Levadura</th>
+                <td class="text-dark text-center">3%</td>
+                <td class="text-dark text-center">--</td>
+                <td class="text-dark text-center">2.40</td>
+              </tr>
+              <tr>
+                <th class="text-dark text-center">Sal</th>
+                <td class="text-dark text-center">2%</td>
+                <td class="text-dark text-center">--</td>
+                <td class="text-dark text-center">1.60</td>
+              </tr>
+              <tr>
+                <th class="text-dark text-center">Azucar</th>
+                <td class="text-dark text-center">2%</td>
+                <td class="text-dark text-center">--</td>
+                <td class="text-dark text-center">1.60</td>
+              </tr>
+              <tr>
+                <th class="text-dark text-center">Manteca</th>
+                <td class="text-dark text-center">3%</td>
+                <td class="text-dark text-center">--</td>
+                <td class="text-dark text-center">2.40</td>
+              </tr>
+              <thead>
+                <th class="text-dark text-center table-danger" colspan="4">Rendimiento: 136 unidades de una onza</th>
+              </thead>
+              
+              
+              
+            </table>
+          </div>
           <h4 class="my-4 text-center text-dark">Procedimiento</h4>
           <div class="steps">
             <div class="step pt-4">
@@ -117,6 +170,65 @@
             </svg></div>
         </div>
         <div class="receta-info">
+        <div class="receta">
+            <h4 class="my-4 text-center text-dark">Ingredientes principales</h4>
+            <table class="table">
+              <thead>
+                <th class="text-dark text-center">Ingrediente</th>
+                <th class="text-dark text-center">%</th>
+                <th class="text-dark text-center">Libra</th>
+                <th class="text-dark text-center">Onza</th>
+              </thead>
+              <tr>
+                <th class="text-dark text-center">Harina Dura</th>
+                <td class="text-dark text-center">100%</td>
+                <td class="text-dark text-center">3</td>
+                <td class="text-dark text-center"> </td>
+              </tr>
+              <tr>
+                <th class="text-dark text-center">Harina Integral Normal</th>
+                <td class="text-dark text-center">30%</td>
+                <td class="text-dark text-center">--</td>
+                <td class="text-dark text-center">14.40</td>
+              </tr>
+              <tr>
+                <th class="text-dark text-center">Agua</th>
+                <td class="text-dark text-center">60%</td>
+                <td class="text-dark text-center">1.80</td>
+                <td class="text-dark text-center">--</td>
+              </tr>
+              <tr>
+                <th class="text-dark text-center">Levadura</th>
+                <td class="text-dark text-center">3%</td>
+                <td class="text-dark text-center">--</td>
+                <td class="text-dark text-center">1.44</td>
+              </tr>
+              <tr>
+                <th class="text-dark text-center">Manteca</th>
+                <td class="text-dark text-center">3%</td>
+                <td class="text-dark text-center">--</td>
+                <td class="text-dark text-center">1.44</td>
+              </tr>
+              <tr>
+                <th class="text-dark text-center">Azucar</th>
+                <td class="text-dark text-center">2%</td>
+                <td class="text-dark text-center">--</td>
+                <td class="text-dark text-center">0.96</td>
+              </tr>
+              <tr>
+                <th class="text-dark text-center">Sal</th>
+                <td class="text-dark text-center">2%</td>
+                <td class="text-dark text-center">--</td>
+                <td class="text-dark text-center">0.96</td>
+              </tr>
+              <thead>
+                <th class="text-dark text-center table-danger" colspan="4">Rendimiento: 136 unidades de 1 onza</th>
+              </thead>
+              
+              
+              
+            </table>
+          </div>
           <h4 class="my-4 text-center text-dark">Procedimiento</h4>
           <div class="steps">
             <div class="step pt-4">
