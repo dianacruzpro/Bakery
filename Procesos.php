@@ -377,10 +377,6 @@
   </div>
 </div>
 
-
-
-
-
 /** Modal Video **/
 
 <div class="modal fade" id="proceso-pan" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
@@ -399,10 +395,5 @@
     </div>
   </div>
 </div>
-
-
-
-
-
 
 <?php include("./TEMPLATE/pie.php") ?>
