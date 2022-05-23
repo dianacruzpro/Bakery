@@ -1,7 +1,7 @@
 <!doctype html>
-<html lang="en">
+<html lang="es">
   <head>
-    <title>Bakery 2</title>
+    <title>Bakery</title>
     <!-- Estilos css -->
     <link rel="stylesheet" href="./CSS/estilos.css">
     <!-- Required meta tags -->

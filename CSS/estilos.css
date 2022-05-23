@@ -92,7 +92,6 @@ section{
  color: var(--color-primario); 
 }
 
-<<<<<<< HEAD
 /******** Acerca de ***********/
 .carousel{
   padding: 50px 0px!important;
@@ -190,12 +189,6 @@ section{
   margin: 20px auto 0px;
   width: 64px;
   height: auto;
-=======
-/********   Tienda   **********/
-
-.tiendaProductos{
-  background-color: #2c2d2f;
->>>>>>> 2df9a4755c3f6718d06cdbce0e7dd6efa065898f
 }
 
 /******** Procesos ***********/
