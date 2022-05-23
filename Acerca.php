@@ -73,10 +73,11 @@
     </div>
 </section>
 
+
 <section>
         <div class="row">
             <div class="col-md-4">
-                <div class="card primera">
+                <div class="primera">
                     <img src="img/AboutUs3.jpg" class="card-img-top img" alt="...">
                     <div class="card-body">
                         <p class="card-text">
@@ -108,7 +109,7 @@
                     </div>
                 </div>  
 
-                <div class="card mb-4 segunda">
+                <div class="mb-4 segunda">
                     <div class="row g-0">
                         <div class="col-md-4">
                             <img src="img/AboutUs1.png" class="img-fluid rounded-start img" alt="...">
@@ -135,7 +136,7 @@
     <hr>
     <div class="row row-cols-1 row-cols-md-3 g-4">
         <div class="col">
-            <div class="card h-100 valores" >
+            <div class="h-100 valores" >
                 <img src="img/AboutUsIcon3.png" class="card-img-top img" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Calidad</h5>
@@ -144,7 +145,7 @@
         </div>
 
         <div class="col">
-            <div class="card h-100 valores">
+            <div class="h-100 valores">
                 <img src="img/AboutUsIcon2.png" class="card-img-top img" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Excelencia</h5>
@@ -153,7 +154,7 @@
         </div>
 
         <div class="col">
-            <div class="card h-100 valores">
+            <div class="h-100 valores">
                 <img src="img/AboutUsIcon4.png" class="card-img-top img" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Integridad</h5>
@@ -162,7 +163,7 @@
         </div>
 
         <div class="col">
-            <div class="card h-100 valores">
+            <div class="h-100 valores">
                 <img src="img/AboutUsIcon1.png" class="card-img-top img" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Pasión</h5>
@@ -171,7 +172,7 @@
         </div>
 
         <div class="col">
-            <div class="card h-100 valores">
+            <div class="h-100 valores">
                 <img src="img/AboutUsIcon6.png" class="card-img-top img" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Responsabilidad</h5>
@@ -180,7 +181,7 @@
         </div>
 
         <div class="col">
-            <div class="card h-100 valores">
+            <div class="h-100 valores">
                 <img src="img/AboutUsIcon5.png" class="card-img-top img" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Trabajo en equipo</h5>
