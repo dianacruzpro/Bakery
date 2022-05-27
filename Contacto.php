@@ -28,7 +28,7 @@
             <span class="circulo uno"></span>
             <span class="circulo dos"></span>
 
-            <form class="contacto" action="index.php">
+            <form class="contacto" action="https://formsubmit.co/dsarai1511@gmail.com" method="POST">
                 <h3 class="titulo">Contactenos</h3>
                 <div class="input_contenedor">
                     <input type="text" name="nombre" class="input" pattern="^[A-Za-zÑñÁáÉéÍíÓóÚúÜü\s]+$" title="Formato solo acepta letras y espacios en blanco" required>
