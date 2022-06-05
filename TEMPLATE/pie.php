@@ -1,15 +1,7 @@
 
-    <footer class="navbar fixed-bottom navbar-dark color-fondo-nt box-shadow-t">
+    <footer class="navbar bottom navbar-dark color-fondo-nt box-shadow-t">
       <div class="content-fluid mx-auto" width="100%">
-        <a href="#" class="navbar-brand mx-5">
-          <i class="bi bi-facebook"></i>
-        </a>
-        <a href="#" class="navbar-brand mx-5">
-          <i class="bi bi-twitter"></i>
-        </a>
-        <a href="#" class="navbar-brand mx-5">
-          <i class="bi bi-messenger"></i>
-        </a>
+        <p>Universidad Pedadógica de El Salvador. Todos los derechos reservados &copy</p>
       </div>
 
     </footer>

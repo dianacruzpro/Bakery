@@ -6,7 +6,7 @@
       <h1><span>Horneamos</span> el pan</h1>
       <h1>de <span>mejor calidad</span></h1>
       <p>100% Natural</p>
-      <a href="#tienda" class="nav-link px-5 boton boton-primario text-light">Compra Ahora</a>
+      <a href="Tienda.php" class="nav-link px-5 boton boton-primario text-light">Compra Ahora</a>
     </div>
   </div>
 </section>
