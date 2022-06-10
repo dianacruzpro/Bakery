@@ -99,4 +99,11 @@
   </div>
 </section>
 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<a href="https://api.whatsapp.com/send?phone=+50360039102&text=Hola! Bienvenido a nuestra Panaderia. ¿Como podemos ayudarte?" class="float" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>
+
+<link rel="stylesheet" href="CSS/whatsapp.css">
+
 <?php include("./TEMPLATE/pie.php") ?>

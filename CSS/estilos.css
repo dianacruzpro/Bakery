@@ -642,7 +642,7 @@ float: left;
 }
 
 .formulario{
-  margin-top: 2.2rem;
+  margin-top: 5.5rem;
   width: 100%;
   max-width: 820px;
   background-color:var(--color-fondo);
@@ -653,8 +653,6 @@ float: left;
   display: grid;
   grid-template-columns:1fr;
 }
-
-
 
 .contacto_formulario{
   background-color:var(--color-primario-oscuro);
@@ -695,7 +693,7 @@ float: left;
 }
 
 form.contacto{
-  padding: 2.3rem 2.2rem;
+  padding: 2.5rem 2.2rem;
   z-index: 10;
   overflow: hidden;
   position: relative;
