@@ -12,13 +12,20 @@
   font-size:30px;
 	box-shadow: 2px 2px 3px #999;
   z-index:100;
-}
-.float:hover {
-	text-decoration: none;
-	color: #25d366;
-  background-color:#fff;
+  transition: all 0.8s ease;
 }
 
 .my-float{
 	margin-top:16px;
 }
+.float:hover {
+	text-decoration: none;
+  background-color:#fff;
+}
+
+.float:hover .my-float{
+  transform: scale(1.2);
+  color: #25d366;
+}
+
+
