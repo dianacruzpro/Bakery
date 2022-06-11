@@ -10,22 +10,22 @@
 <div class="container">
 
   <div class="fila2">
-    <a class="tarjeta text-decoration-none" href="pasteleria.php" style="--i:url(../IMG/Tipos/Pasteleria/Pasteleria.jpg)" alt="pastel">
+    <a class="tarjeta text-decoration-none" href="pasteleria.php" style="--i:url(../IMG/Tipos/Pasteleria/Pasteleria.jpg)" alt="pastel" target="_blank">
       <div class="content">
         <h3>PASTELERIA</h3>
       </div>
     </a>
-    <a class="tarjeta text-decoration-none" href="reposteria.php" style="--i:url(../IMG/Tipos/Reposteria/Reposteria.jpg)" alt="pastel">
+    <a class="tarjeta text-decoration-none" href="reposteria.php" style="--i:url(../IMG/Tipos/Reposteria/Reposteria.jpg)" alt="pastel" target="_blank">
       <div class="content">
         <h3>REPOSTERIA</h3>
       </div>
     </a>
-    <a class="tarjeta text-decoration-none" href="cafeteria.php" style="--i:url(../IMG/Tipos/Cafeteria/cafeteria.jpg)" alt="pastel">
+    <a class="tarjeta text-decoration-none" href="cafeteria.php" style="--i:url(../IMG/Tipos/Cafeteria/cafeteria.jpg)" alt="pastel" target="_blank">
       <div class="content">
         <h3>CAFETERIA</h3>
       </div>
     </a>
-    <a class="tarjeta text-decoration-none" href="panaderia.php" style="--i:url(../IMG/Tipos/Panaderia/Quesadillas.jpg)" alt="pastel">
+    <a class="tarjeta text-decoration-none" href="panaderia.php" style="--i:url(../IMG/Tipos/Panaderia/Quesadillas.jpg)" alt="pastel" target="_blank">
       <div class="content">
         <h3>PANADERIA</h3>
       </div>

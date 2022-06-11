@@ -92,7 +92,7 @@
   <div class="elementor-widget-wrap">
     <div class="elementor-element elementor-element-32e3c6e elementor-widget elementor-widget-html" data-id="32e3c6e" data-element_type="widget" data-widget_type="html.default">
       <div class="elementor-widget-container">
-        <iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d975.2240596129753!2d-77.02953757084752!3d-12.119251549463684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c819e0828c51%3A0x437a1d11a69f381b!2s%C3%93valo+de+Miraflores!5e0!3m2!1ses!2spe!4v1496722480035" width=100%" height="500" frameborder="0" allowfullscreen="allowfullscreen">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3876.492474888667!2d-89.29076535133213!3d13.68859630303013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f632f045a385993%3A0x3a871ca8bd3ae73c!2zMTPCsDQxJzIxLjkiTiA4OcKwMTcnMjkuMyJX!5e0!3m2!1sen!2ssv!4v1654964703856!5m2!1sen!2ssv" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
         </iframe>
       </div>
     </div>
